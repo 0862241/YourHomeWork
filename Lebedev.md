@@ -8,5 +8,7 @@
 6. Save add and commit
 7. Push -- Fatal mistake
 8. Use push --set-upstream origin
+10. Push request
+
 
 
